@@ -12,3 +12,5 @@ https://aaroncee.github.io/run-buddy/
 
 ## Contributiom
 Made with ❤️ by Aaron
+
+### &#169; Run Buddy, Inc
