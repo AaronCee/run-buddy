@@ -10,7 +10,7 @@ A website that offers fitness training services.
 ## Website
 https://aaroncee.github.io/run-buddy/
 
-## Contributiom
+## Contribution
 Made with ❤️ by Aaron
 
 ### &#169; Run Buddy, Inc
